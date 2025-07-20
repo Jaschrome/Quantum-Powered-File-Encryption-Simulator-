@@ -33,8 +33,3 @@ streamlit run app.py
 - streamlit
 - qiskit
 - qiskit-aer
-
-## Visualization
-
-![QKD Flow](https://upload.wikimedia.org/wikipedia/commons/6/6b/BB84_protocol.svg)
-<sub>Source: Wikipedia, BB84 Protocol</sub>
