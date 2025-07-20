@@ -19,7 +19,7 @@ This Streamlit app simulates Quantum Key Distribution (QKD) using the BB84 proto
 ## Quickstart
 
 ```bash
-git clone https://github.com/Jaschromee/qkd-sim.git
+git clone https://github.com/Jaschrome/qkd-sim.git
 cd qkd-sim
 python -m venv .venv
 .venv\Scripts\activate  # On Windows
