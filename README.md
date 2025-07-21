@@ -8,6 +8,7 @@ This Streamlit app simulates Quantum Key Distribution (QKD) using the BB84 proto
 - Encrypts files with a one-time pad using the quantum key
 - Packages encrypted file and key for download
 - Decrypts files using the provided key
+- update 1 - added an on devie BB84 simulation that runs on the CPU instead of qiskit. Also supports multithreading
 
 ## How it works
 
